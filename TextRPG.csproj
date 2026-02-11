@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Domain\Entities\Dungeon\Room\" />
+    <Folder Include="Domain\Entities\Interfaces\" />
+  </ItemGroup>
+
 </Project>
